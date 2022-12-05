@@ -3,7 +3,7 @@
 - `transform: scale(1.1);` (it changes their shape to (1.1) times bigger).
 
 # General:
-[Click here to the site](https://www.toptal.com/developers/keycode) to get the javascript event code for each ecah key in the keyboard.
+[Click here to the site](https://www.toptal.com/developers/keycode) to get the javascript event code for each key in the keyboard.
 
 # HTML:
 `data-key = '65'`  is an attribute that the value of the key letter can be stored.
